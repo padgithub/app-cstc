@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "PetsEvery",
+    "description": "App ho tro cham soc thu cung",
+    "slug": "react-native-pets",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/icon1.png",
+    "loading": {
+      "icon": "./assets/icons/loading.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ],
+      "config": "rn-cli.config.js"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
